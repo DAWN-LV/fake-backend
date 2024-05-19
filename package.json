@@ -1,0 +1,13 @@
+{
+  "main": "./dist",
+  "scripts": {
+    "start:dev": "tsc & node ."
+  },
+  "dependencies": {
+    "dawn-api": "^0.1.7",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
